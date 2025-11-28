@@ -1,0 +1,32 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.sublime-workspace
+*.sublime-project
+
+# Obsidian
+.obsidian/
+.trash/
+
+# Logseq
+logseq/
+/journals/
+/logseq/bak/
+/logseq/version-files/
+
+# Node modules (if you use any build tools later)
+node_modules/
+npm-debug.log
+yarn-error.log
